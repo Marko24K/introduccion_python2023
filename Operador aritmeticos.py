@@ -22,3 +22,4 @@ print("parentesis, potencias, raices, multiplicacion, division, suma y la resta 
 print(5 + 5 * 2)
 #investigar division entera
 #y hacer raices cuadradadas
+
