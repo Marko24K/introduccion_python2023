@@ -19,3 +19,9 @@ nombre = nombre.replace("o", "a")
 print(nombre)
 #tarea: averiguar sobre Slices 
 #crear un programa que identifique si una palabra es palindromo
+
+print(nombre[3])
+largo_nombre=len(nombre)
+print(largo_nombre)
+
+print("esto es una cadena de texto")
