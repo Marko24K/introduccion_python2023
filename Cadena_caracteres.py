@@ -8,7 +8,7 @@ print (nombre)
 nombre= nombre.lower()
 print(nombre)
 
-#primera letra en mayusculas
+#primera letra de un texto en mayusculas
 nombre = nombre.capitalize()
 
 #elimina caracteres o espacio demas
