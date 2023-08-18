@@ -6,9 +6,10 @@ tupla = (1,2,3,4,6)
 tupla2 = (1,"HOLA",3.3,True, [1,2,3,4,5], (1,2,3,4))
 
 print(tupla[0])
-
+for i in range(len(tupla2)):
+    print(tupla[i])
 #modificar una tupla (no se puede)
 #tupla[0] = 6
 #print(tupla)
 
-print( len(tupla2))
+print(len(tupla2))
